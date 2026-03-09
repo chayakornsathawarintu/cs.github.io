@@ -1,1 +1,1 @@
-# cs.github.io
+# csthesis.github.io
